@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Limit-service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Limit-service.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
